@@ -31,6 +31,7 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop view](./images/Desktop.png)
+<img scr="./images/Desktop.png" alt="Desktop view">
 
 ![mobile view](./images/mobile-view.png)
 
