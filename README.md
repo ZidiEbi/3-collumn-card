@@ -30,15 +30,14 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop view](./images/Desktop.png)
-<img scr="/images/Desktop.png" alt="Desktop view">
+![Desktop](https://user-images.githubusercontent.com/105337069/191831434-9cafb6d2-4d23-4603-9a5f-7586b772c9a1.png)
+![mobile-view](https://user-images.githubusercontent.com/105337069/191831545-cef199f4-5870-48e9-850d-a51520db5e29.png)
 
-![mobile view](./images/mobile-view.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Replit](https://scrawnygreenactivecell.zidiebi.repl.co/)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
